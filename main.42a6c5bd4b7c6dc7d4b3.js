@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{Kyaj:function(t,o){document.querySelector("body"),document.querySelector('button[data-action="start"]'),document.querySelector('button[data-action="stop"]')},OPH6:function(t,o,n){},QfWi:function(t,o,n){"use strict";n.r(o);n("OPH6"),n("Kyaj")}},[["QfWi",1]]]);
+//# sourceMappingURL=main.42a6c5bd4b7c6dc7d4b3.js.map
